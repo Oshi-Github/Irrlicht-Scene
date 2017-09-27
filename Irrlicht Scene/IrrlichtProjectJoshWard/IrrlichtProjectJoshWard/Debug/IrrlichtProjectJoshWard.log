@@ -1,0 +1,4 @@
+﻿  Main.cpp
+f:\irrlicht 2 - copy\programming game engines\irrlichtprojectjoshward\irrlichtprojectjoshward\lights.h(66): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+  IrrlichtProjectJoshWard.vcxproj -> F:\Irrlicht 2 - Copy\Programming Game Engines\IrrlichtProjectJoshWard\Debug\IrrlichtProjectJoshWard.exe
+  IrrlichtProjectJoshWard.vcxproj -> F:\Irrlicht 2 - Copy\Programming Game Engines\IrrlichtProjectJoshWard\Debug\IrrlichtProjectJoshWard.pdb (Full PDB)

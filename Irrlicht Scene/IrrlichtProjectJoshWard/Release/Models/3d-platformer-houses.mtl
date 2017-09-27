@@ -1,0 +1,190 @@
+# Blender MTL File: '3d-platformer-houses.blend'
+# Material Count: 16
+
+newmtl door_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.135662 0.144115 0.067283
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\door_1.jpg
+
+newmtl grass
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.070000 textures\\grass_2_norm.jpg
+map_Kd textures\\grass_2.jpg
+
+newmtl house_dark_stone
+Ns 201.960784
+Ka 1.000000 1.000000 1.000000
+Kd 0.152142 0.152142 0.152142
+Ks 0.021463 0.021463 0.021463
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.040000 textures\\stone1_norm.png
+map_Kd textures\\stone1.png
+
+newmtl house_roof_black
+Ns 213.725490
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.169355 0.037918 0.031446
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.080000 textures\\roof_black_norm.jpg
+map_Kd textures\\roof_black.jpg
+
+newmtl house_roof_red
+Ns 213.725490
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.169355 0.037918 0.031446
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.080000 textures\\roof_red_norm.jpg
+map_Kd textures\\roof_red.jpg
+
+newmtl house_wall1
+Ns 133.333333
+Ka 1.000000 1.000000 1.000000
+Kd 0.672258 0.627891 0.494791
+Ks 0.201613 0.201613 0.201613
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 textures\\house_wall_norm.JPG
+map_Kd textures\\house_wall.JPG
+
+newmtl house_wall2
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.370968 0.173117 0.135151
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.020000 textures\\house_wall_red_norm.JPG
+map_Kd textures\\house_wall_red.JPG
+
+newmtl house_wall3
+Ns 233.333333
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.078786 0.078786 0.078786
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.200000 textures\\stonetiles_002_norm.jpg
+map_Kd textures\\stonetiles_002_diff.jpg
+
+newmtl house_wall4
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.154407 0.160000 0.094143
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.240000 textures\\stonetiles_003_norm.jpg
+map_Kd textures\\stonetiles_003_diff.jpg
+
+newmtl house_wood_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.208331 0.208331 0.208331
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.080000 textures\\wood2_norm.png
+map_Kd textures\\wood2.png
+
+newmtl house_wood_2
+Ns 56.862745
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.109325 0.110081 0.053406
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.090000 textures\\wood4-norm.jpg
+map_Kd textures\\wood4.jpg
+
+newmtl house_wood_3
+Ns 56.862745
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.109325 0.110081 0.053406
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.090000 textures\\wood5-norm.jpg
+map_Kd textures\\wood5.jpg
+
+newmtl house_wood_4
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.239224 0.089134
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.160000 textures\\wood3_norm.png
+map_Kd textures\\wood3.png
+
+newmtl window_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.092600 0.214360 0.290323
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\window_3.JPG
+
+newmtl window_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.092600 0.214360 0.290323
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\window_2.JPG
+
+newmtl window_3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.092600 0.214360 0.290323
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\window_1.JPG

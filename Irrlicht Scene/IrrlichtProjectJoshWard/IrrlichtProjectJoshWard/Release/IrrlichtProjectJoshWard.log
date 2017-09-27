@@ -1,0 +1,7 @@
+﻿  Main.cpp
+e:\uni work sem 2\irrlicht\irrlicht 2 - copy\programming game engines\irrlichtprojectjoshward\irrlichtprojectjoshward\Lights.h(66): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+  Generating code
+  All 270 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IrrlichtProjectJoshWard.vcxproj -> E:\Uni Work Sem 2\irrlicht\Irrlicht 2 - Copy\Programming Game Engines\IrrlichtProjectJoshWard\Release\IrrlichtProjectJoshWard.exe
+  IrrlichtProjectJoshWard.vcxproj -> E:\Uni Work Sem 2\irrlicht\Irrlicht 2 - Copy\Programming Game Engines\IrrlichtProjectJoshWard\Release\IrrlichtProjectJoshWard.pdb (Full PDB)
